@@ -1,4 +1,5 @@
 {
+  "homepage":"prateek7805.github.io/react-calc",
   "name": "calc-app",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +40,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
-  "homepage":"https://prateek7805.github.io/react-calculator/"
+  }
+  
 }

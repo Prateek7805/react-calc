@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-calculator/static/css/main.c13a9f4a.css",
-    "main.js": "/react-calculator/static/js/main.840934fd.js",
-    "static/js/787.c953687d.chunk.js": "/react-calculator/static/js/787.c953687d.chunk.js",
-    "index.html": "/react-calculator/index.html",
-    "main.c13a9f4a.css.map": "/react-calculator/static/css/main.c13a9f4a.css.map",
-    "main.840934fd.js.map": "/react-calculator/static/js/main.840934fd.js.map",
-    "787.c953687d.chunk.js.map": "/react-calculator/static/js/787.c953687d.chunk.js.map"
+    "main.css": "/prateek7805.github.io/react-calc/static/css/main.c13a9f4a.css",
+    "main.js": "/prateek7805.github.io/react-calc/static/js/main.1bf4fb8c.js",
+    "static/js/787.c953687d.chunk.js": "/prateek7805.github.io/react-calc/static/js/787.c953687d.chunk.js",
+    "index.html": "/prateek7805.github.io/react-calc/index.html",
+    "main.c13a9f4a.css.map": "/prateek7805.github.io/react-calc/static/css/main.c13a9f4a.css.map",
+    "main.1bf4fb8c.js.map": "/prateek7805.github.io/react-calc/static/js/main.1bf4fb8c.js.map",
+    "787.c953687d.chunk.js.map": "/prateek7805.github.io/react-calc/static/js/787.c953687d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c13a9f4a.css",
-    "static/js/main.840934fd.js"
+    "static/js/main.1bf4fb8c.js"
   ]
 }
